@@ -10,6 +10,7 @@ import pageobject.HomePageObject;
 public class HomePageTest extends BasepageAutomationPractices {
 
 	HomePageObject hp;
+
 	BasepageAutomationPractices bp;
 	//Boolean = true;
 
